@@ -1,2 +1,2 @@
 # Pollymath
-Polly is AI agent that helps you become a polymath.
+Polly is an AI agent that helps you become a polymath.
